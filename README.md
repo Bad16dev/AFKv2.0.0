@@ -8,7 +8,7 @@
 ### This Is A Tool Maked By Bad
 __My Discord :__ 4_ro | .4ro_
 
-> You Can Always Support Me By Flow Me In My **Social Media Accounts**.
+> You Can Always Support Me By Follow Me In My **Social Media Accounts**.
 
 [My Channel](https://www.youtube.com/channel/UCKh6D-uY87Bb0y0w7XqUlzQ) | [My Instagram](https://www.instagram.com/bqdro_16/)
 
