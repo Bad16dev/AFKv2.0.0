@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+   
+  },
+  "name": "badro",
+  "description": "Afk in voice channel for 24h developed by Badro , to make it online 24h join flou",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -v",
+    "start": "node index.js"
+  },
+  "author": "Badro"
+}
